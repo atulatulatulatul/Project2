@@ -1,0 +1,8 @@
+URL = https://www.saucedemo.com/
+USERNAME = standard_user
+Password = standard_user
+Browser = Chrome
+Titles =  Swag Labs
+ProductsText = Products
+Pricesuggestion = Price (low to high)
+CurrentUURL = https://www.saucedemo.com/

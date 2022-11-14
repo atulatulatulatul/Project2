@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="13" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T17:30:31 IST" name="Default suite" finished-at="2022-10-18T17:31:35 IST" duration-ms="63531">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T17:30:31 IST" name="Default test" finished-at="2022-10-18T17:31:35 IST" duration-ms="63531">
+      <class name="Test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:30:31 IST" name="setup" finished-at="2022-10-18T17:30:44 IST" duration-ms="12053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginToPage1Test()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:30:44 IST" name="LoginToPage1Test" finished-at="2022-10-18T17:30:45 IST" duration-ms="1480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToPage1Test -->
+        <test-method is-config="true" signature="CloseBrowser(org.testng.ITestResult)[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:30:45 IST" name="CloseBrowser" finished-at="2022-10-18T17:30:47 IST" duration-ms="1994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginToPage1Test status=SUCCESS method=LoginPageTest.LoginToPage1Test()[pri:0, instance:Test.LoginPageTest@6e9175d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:30:47 IST" name="setup" finished-at="2022-10-18T17:31:04 IST" duration-ms="16657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginlogoTest()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:04 IST" name="verifyLoginlogoTest" finished-at="2022-10-18T17:31:04 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginlogoTest -->
+        <test-method is-config="true" signature="CloseBrowser(org.testng.ITestResult)[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:04 IST" name="CloseBrowser" finished-at="2022-10-18T17:31:04 IST" duration-ms="511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginlogoTest status=SUCCESS method=LoginPageTest.verifyLoginlogoTest()[pri:0, instance:Test.LoginPageTest@6e9175d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:04 IST" name="setup" finished-at="2022-10-18T17:31:14 IST" duration-ms="9711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitleTest()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:14 IST" name="verifyTitleTest" finished-at="2022-10-18T17:31:14 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method is-config="true" signature="CloseBrowser(org.testng.ITestResult)[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:14 IST" name="CloseBrowser" finished-at="2022-10-18T17:31:15 IST" duration-ms="860" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitleTest status=SUCCESS method=LoginPageTest.verifyTitleTest()[pri:0, instance:Test.LoginPageTest@6e9175d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:15 IST" name="setup" finished-at="2022-10-18T17:31:22 IST" duration-ms="7127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyloginbuttonButtonAgTest()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:22 IST" name="verifyloginbuttonButtonAgTest" finished-at="2022-10-18T17:31:22 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginbuttonButtonAgTest -->
+        <test-method is-config="true" signature="CloseBrowser(org.testng.ITestResult)[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:22 IST" name="CloseBrowser" finished-at="2022-10-18T17:31:23 IST" duration-ms="713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyloginbuttonButtonAgTest status=SUCCESS method=LoginPageTest.verifyloginbuttonButtonAgTest()[pri:0, instance:Test.LoginPageTest@6e9175d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:23 IST" name="setup" finished-at="2022-10-18T17:31:34 IST" duration-ms="10669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyloginbuttonButtonTest()[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:34 IST" name="verifyloginbuttonButtonTest" finished-at="2022-10-18T17:31:34 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginbuttonButtonTest -->
+        <test-method is-config="true" signature="CloseBrowser(org.testng.ITestResult)[pri:0, instance:Test.LoginPageTest@6e9175d8]" started-at="2022-10-18T17:31:34 IST" name="CloseBrowser" finished-at="2022-10-18T17:31:35 IST" duration-ms="1175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyloginbuttonButtonTest status=SUCCESS method=LoginPageTest.verifyloginbuttonButtonTest()[pri:0, instance:Test.LoginPageTest@6e9175d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
